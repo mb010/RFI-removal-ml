@@ -1,0 +1,62 @@
+Frequency,Title,Origin,Classification,Ampdb
+1606,GLONASS L1,OHD,Continuous,0.6
+1616,GLONASS L1,OHD,Continuous,0.6
+1565.42,GPS L1 jamming,NM/WSMR,Continuous,0.2
+1585.42,GPS L1 jamming,NM/WSMR,Continuous,0.2
+1233.71,FAA ARSR4 radar,NA,Continuous,0
+1618-1627,IRIDIUM satellites,OHD,Continuous,0
+1330,FAA ASR radar,NM/Albuquerque,continuous,-0.2
+1166-1186,GPS/Galileo/GLONASS L5,OHD/MEO,Continuous,-0.5
+1243-1251,GLONASS L2,OHD/MEO,Continuous,-0.5
+1254.42,FAA ARSR4 radar,NM/Deming,Continuous,-0.8
+1564-1586,GPS L1,OHD,Continuous,-0.8
+1217-1237,GPS L2,OHD/MEO,Continuous,-0.9
+1200,VLA modem,VLA Site,Continuous,-1
+1337.28,FAA ARSR4 radar,NM/Deming,Continuous,-1
+1850-1990,PCS cell phone base stations,Everywhere,Continuous,-1
+1310,FAA ASR radar,NM/Albuquerque,Continuous,-1.6
+1317,FAA ARSR4 radar,NA,Continuous,-1.6
+1262.19,FAA ARSR4 radar,NM/Eagle Peak,Continuous,-1.8
+1345.04,FAA ARSR4 radar,NM/Eagle Peakk,Continuous,-1.9
+1400,internal birdie,ea13,continuous,-1.9
+1408,internal birdie,numerous antennas,continuous,-1.9
+1291,AEROSTAT,TX/FT Bliss,Malfunction,0
+1231,AEROSTAT,TX/FT Bliss,Malfunction,-1
+1235,AEROSTAT,NA,Malfunction,-1
+1295,AEROSTAT,TX/FT Bliss,Malfunction,-1
+1268,COMPASS E6,NA,NA,-1.8
+1525-1564,INMARSAT satellites,NA,NA,1.2
+1683-1687,GOES weather satellite,NA,NA,1
+1689-1693,GOES weather satellite,NA,NA,1
+1700-1702,NOAA weather satellite,NA,NA,-1
+1705-1709,NOAA weather satellite,NA,NA,-1
+1222.5-1223.5,TARS pulsed radar AZ,AZ/Ft Huachuca,Pulsed & intermittent,-0.5
+1251.5-1252.5,TARS pulsed radar NM,NM/Deming,Pulsed & Intermittent,-0.5
+1282.5-1283.5,TARS pulsed radar AZ,AZ/Ft Huachuca,Pulsed & Intermittent,-0.5
+1311.5-1312.5,TARS pulsed radar NM,NM/Deming,Pulsed & Intermittent,-0.5
+1642,2nd harmonic VLA radios,NA,Sporadic,-0.5
+1090,Aeronautical IFF/air2gnd,Everywhere,Intermittent,0.2
+1030,Aeronautical IFF/gnd2air,Everywhere,Intermittent,-0.2
+1000,RATSCAT Low FQ,NM,Intermittent,-3
+1357,WSMR RAJPO transponder,NM/WSMR,Intermittent,-0.5
+1365,WSMR RAJPO transponder,NM/WSMR,Intermittent,-0.5
+1369,WSMR RAJPO transponder,NM/WSMR,Intermittent,-0.5
+1385,WSMR RAJPO transponder,NM/WSMR,Intermittent,-0.5
+1393,WSMR RAJPO transponder,NM/WSMR,Intermittent,-0.5
+1432.5,WSMR RAJPO transponder,NM/WSMR,Intermittent,-0.5
+1444.5,High alt balloon,NM/FT Sumner,Intermittent,-0.5
+1448.5,Test telemetry,NM/FT Bliss,Intermittent,-0.5
+1452.5,Test telemetry,NM/FT Bliss,Intermittent,-0.5
+1453.5,High alt baloon,NM/FT Sumner,Intermittent,-0.5
+1460.5,Test telemetry,NM/FT Bliss,Intermittent,-0.5
+1501.5,High alt baloon,NM/FT Sumner,Intermittent,-0.5
+1504.5,WSMR jamming telemetry,NM/WSMR,Intermittent,-0.5
+1515.5,High alt baloon,NM/FT Sumner,Intermittent,-0.5
+1525.5,High alt baloon,NM/FT Sumner,Intermittent,-0.5
+1529.5,Test telemetry,NM/FT Bliss,Intermittent,-0.5
+1530.5,WSMR jamming telemetry,NM/WSMR,Intermittent,-0.5
+1771,High alt baloon,NM/FT Sumner,Intermittent,-0.5
+1025-1150,Aircraft navigation DME,DME/VOR,intermittent,-0.5
+1376-1386,GPS L3 NUDET,OHD,Intermittent,-0.5
+1437-1453,WSMR telemetry,NM/WSMR,Intermittent,-0.5
+1668-1680,RADIOSONDES- WX baloons,,Intermittent,-0.5
